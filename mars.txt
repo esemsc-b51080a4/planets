@@ -2,7 +2,11 @@ Cold and dry, but everything is my favorite color
 The two moons may be a problem for Wolfman
 But the Mummy will appreciate the lack of humidity
 I am still thinking about LittleWomen Jo anna and Greta
+<<<<<<< HEAD
 I am not sure what to write owner
+=======
+Thius line added to Wolfma-s copy
+>>>>>>> e4bf731b869c78e3a7b69d040a926eb61efe3c5f
 
 
 
